@@ -1,0 +1,11 @@
+andar pelos diretórios com cd
+listar diretórios com ls
+Entender estrutura de arquivos
+diretório / (raiz) 
+
+prática:
+    logar no sistema
+    usar o comando su - (para entrar em modo rot)   
+        se der erro de senha executar o comando sudo passwd root (para atribuir nova senha )
+    cd / para ir para a raiz 
+    executar ls na raiz
