@@ -49,3 +49,11 @@ Abaixo uma lista dos diretórios extraido do https://pt.wikipedia.org/wiki/Files
   /var/spool - Spooling de tarefas (fila de impressão, cache de pacotes, proxy, etc)
   /var/spool/mail - Antigo local da caixa de correio de usuários (deve ser usado /var/mail)
   /var/tmp - Arquivos temporários. Quando usado em modo multi-usuário.
+  /srv - contem dados que não são dinâmicos mas sim staticos(ex: serviços FTP, serivços git, Apache)
+  /sys - informações referentes ao sistema. 
+  /usr - segunda maior estrutura de diretorios / (tudo do "usuário")
+    /bin - Binários de usuários, essenciais no boot
+    /sbin - Binários do superusuário, essenciais no boot
+    /src - onde faz compilação do kernel
+    /x11r6 - diretório do xwindows system (interface gráfica)
+    /local - ser a terceira hierarquia de diretórios 

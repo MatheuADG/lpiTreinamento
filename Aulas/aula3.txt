@@ -1,0 +1,23 @@
+na pasta /dev
+nós temos o arquivo sda que é nosso hd
+ao listar com ls -lha vemos que o tipo do arquivo é tipo b de bloco, indica que é um dispositivo de armazenamento 
+onde tem arquivos do tipo c, indica que é arquivo dispositivo de transferência.
+
+tty é um terminal.
+psaux é mouse
+net é um diretório onde contem dispositivos
+
+
+
+entendendo o etc
+Onde tem toda configuração da máquina 
+é dentro de etc que contem as configurações de network
+echo "STANDARD ENGLISH FINAL SUPREME STRONG" > /etc/motd
+
+
+lib tem os módulos do linux
+
+na pasta lib que fica as bibliotecas e dependencias
+no caminho /lib/modules/versao.do.kernel/kernel/drivers 
+    Aqui fica todas configurações de drivers 
+    

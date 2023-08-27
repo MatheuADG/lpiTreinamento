@@ -1,0 +1,7 @@
+desligando e reiniciando 
+halt = desligar
+reboot = reiniciar
+shotdown -h now =desligar agora
+poweroff = deslgiar 
+init 0 = desligar
+init 6 = reiniciar máquina

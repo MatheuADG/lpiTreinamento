@@ -1,0 +1,184 @@
+comandos internos e externos.
+
+comando interno está 
+
+dar echo $path para entender o caminho das variáveis executaveis
+Diferença entre bin e path
+
+
+bash_history:
+ history
+    1  su -
+    2  sudo passwd root = root
+    3  sudo passwd root root
+    4  passwd --help
+    5  man passwd
+    6  passwd root
+    7  sudo passwd root
+    8  cd /etc
+    9  ls
+   10  cat passwd
+   11  ls -lha
+   12  cat pam.conf
+   13  man passwd
+   14  ls
+   15  cd pam.d/
+   16  ls
+   17  cat passwd
+   18  cd /dev
+   19  ls
+   20  ls -lha
+   21  lp
+   22  psaux
+   23  cat sda2
+   24  df -h
+   25  cd ..
+   26  ls
+   27  cd etc
+   28  ls
+   29  cat hostname
+   30  cd network/
+   31  ls
+   32  sls
+   33  ls
+   34  cd / etc
+   35  ls
+   36  cd /etc
+   37  ls
+   38  cat motd
+   39  echo "STANDARD ENGLISH FINAL SUPREME STRONG" > /etc/motd
+   40  exit
+   41  pwd
+   42  su -
+   43  exit
+   44  ls
+   45  cd /usr/local/bin
+   46  ls
+   47  alias
+   48  /usr/local/bin/alias
+   49  sudo /usr/local/bin/alias
+   50  su -
+   51  alias
+   52  /usr/local/bin/alias
+   53  rm /usr/local/bin/alias
+   54  sudo rm /usr/local/bin/alias
+   55  ls
+   56  type alias
+   57  man builtin
+   58  builtin
+   59  echo $PATH
+   60  man
+   61  man-db
+   62  man bash
+   63  ls -a
+   64  ls - lha
+   65  touch .teste
+   66  sudo
+   67  sudo .toutch
+   68  ls
+   69  ls -a
+   70  ls --color=always
+   71  ls
+   72  cd /etc
+   73  ls
+   74  su -
+   75  ls
+   76  ls /bin
+   77  ls /bin --color=auto
+   78  ls /bin --color=always
+   79  ls /bin --color=none
+   80  ls
+   81  ls /bin
+   82  ls /sbin
+   83  cd /tmp
+   84  ls
+   85  pawd
+   86  pwd
+   87  dash
+   88  cd /root
+   89  cd -
+   90  cd ~
+   91  ls
+   92  pwd
+   93  cd /usr/local/bin
+   94  cd -
+   95  cd ~
+   96  ls
+   97  cd -p Diretorio/Aluno/Joao/Matematica/notas
+   98  nkdir -p Diretorio/Aluno/Joao/Matematica/notas
+   99  mkdir -p Diretorio/Aluno/Joao/Matematica/notas
+  100  ls -d
+  101  ls -ad
+  102  ls -L
+  103  tree
+  104  ls
+  105  tree
+  106  tree Diretorio
+  107  sudo apt-get install tree
+  108  tree
+  109  cd /
+  110  tree
+  111  clear
+  112  ls
+  113  tree /dev
+  114  ls
+  115  tree /var
+  116  ls
+  117  tree /root
+  118  tree ~
+  119  pwd
+  120  cd ~
+  121  ls
+  122  pwd
+  123  cd Diretorio/
+  124  touch legolas
+  125  ls
+  126  cd Aluno/
+  127  touch legolas
+  128  ls
+  129  cd J
+  130  cd Joao/
+  131  ls
+  132  touch legolas
+  133  ls
+  134  cd Matematica/
+  135  touch legoglas
+  136  .s
+  137  ls
+  138  cd notas/
+  139  ls
+  140  touch notas1b notas2b notas3b notas4b legolas
+  141  ls
+  142  cd ~
+  143  ls
+  144  tree
+  145  /
+  146  cd /]
+  147  cd /
+  148  ls
+  149  tree
+  150  tree -A
+  151  clear
+  152  ls
+  153  cd ~
+  154  ls
+  155  cd Diretorio/Aluno/Joao/Matematica/notas/
+  156  ls
+  157  nano legolas
+  158  vim legolas
+  159  ls
+  160  ls -a
+  161  cat legolas
+  162  cat -s legolas
+  163  cat -b legolas
+  164  cat -E legolas
+  165  tac legolas
+  166  ls
+  167  pwd
+  168  cd ~
+  169  ls
+  170  rm --help
+  171  rm -r Diretorio/
+  172  ls
+  173  tree
+  174  history
